@@ -46,7 +46,8 @@ fetch(`https://dashboard.elering.ee/api/nps/price?start=${start}&end${end}`)
                 borderColor: [
                     'rgba(255, 99, 132, 1)',
                 ],
-                borderWidth: 1
+                borderWidth: 1,
+                stepped: true,
             }]
         },
         options: {
