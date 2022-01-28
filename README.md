@@ -2,7 +2,7 @@
  
 FIGMA LINK https://www.figma.com/file/sR1vhB1spuTIZPGgP43BAx/Untitled?node-id=0%3A1
 
-Algne prototüüp https://raw.githubusercontent.com/rainistiirik23/Energiahakk-Team3/main/Algne%20protot%C3%BC%C3%BCp.jpg
+![Algne prototüüp](https://raw.githubusercontent.com/rainistiirik23/Energiahakk-Team3/main/Algne%20protot%C3%BC%C3%BCp.jpg)
 
 PROTOTÜÜP https://ta21allik.itmajakas.ee/index.php 
 
