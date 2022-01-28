@@ -67,6 +67,12 @@ Viimaste asjade lõpetamised.
 
 Esitlus.
 
+**Kasutatud allikad**
+- [ReadMe syntax](https://daringfireball.net/projects/markdown/syntax#list)
+- [Bootstrap components](https://getbootstrap.com/docs/3.3/)
+- [Loading free logos](https://www.flaticon.com)
+- [Generating logo](https://www.photopea.com)
+
 -----------
 **TIIMI TAGASISIDE**
 
