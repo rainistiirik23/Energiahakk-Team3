@@ -96,7 +96,7 @@ Esitlus.
 
 2. Õppisin arutlema tiimiga erinevate ideede üle. 
 
-3. Figma, bootstrap.com
+3. Figma, bootstrap.com, Photopea.com
 
 **Olev Kuris**
 
