@@ -35,7 +35,7 @@ Suhtluskanalid: Microsoft Teams, Slack
 
 **Ülesanded**
 
-**1.päev**
+**1. päev**
 
 Meeskonnaga tutvumine.
 
@@ -43,7 +43,7 @@ Suhtluskanalite loomine.
 
 Ideede genereerimine ning küsimuste kogumine.
 
-**2.päev**
+**2. päev**
 
 Andmete kätte saamine andmebaasist.
 
@@ -57,7 +57,7 @@ Prototüübi loomine FIGMAS.
 
 GITHUB.
 
-**3.päev**
+**3. päev**
 
 FIGMA probleemide lahendamine.
 
@@ -78,14 +78,18 @@ Esitlus.
 
 **Andra Vabar**
 
+1. Mulle väga meeldis meie meeskonna sünergia, sest kogu flow oli sujuv. Ise sain seekord tegeleda mitmete erinevate tahkude selle projekti juures, seega jäin iseendale võetud ülesannete valikuga väga rahul.
+2. Iga projektiga saab arendada meeskonnatööd, suhtlust - ka seekord.
+3. Sain palju lähemal tuttavaks bootstrapi võimalustega, tehes seekord olulisel määral html-i ja css-i. Lisaks õppisin Figmas täiesti uusi nüansse, mis tulevikus kindlasti kasuks tulevad.
+
 
 **Rainis-Ross Tiirik**
 
-1.Ei,ma olin rahul oma ülesannetega.
+1. Ei,ma olin rahul oma ülesannetega.
 
-2.Sain harjutada koostööd meeskonnaliikmega,kes tegi tööd kaugelt.
+2. Sain harjutada koostööd meeskonnaliikmega,kes tegi tööd kaugelt.
 
-3.Sain harjutada Javascripti.
+3. Sain harjutada Javascripti.
 
 **Olavi Allik**
 
