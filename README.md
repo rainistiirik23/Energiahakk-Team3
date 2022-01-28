@@ -6,10 +6,15 @@ PROTOTÜÜP https://ta21allik.itmajakas.ee/index.php
 
 **Liikmed:**
 
+TA-20 
+
 Andra Vabar,
 Rainis-Ross Tiirik,
+Timo Pirn
+
+TA - 21
+
 Olavi Allik,
-Timo Pirn,
 Silja Kask,
 Olev Kuris
 
@@ -19,7 +24,7 @@ Kodumasinate elektritarbivus vastavuses börsihindadega.
 
 **Projekti eesmärk**
 
-Luua toimiv app, mis näitab vastavalt kodumasinate võimsusele ning kasutusajale maksumust, mis on seotud käesolevate börsihindadega.
+Luua toimiv app, mis näitab vastavalt kodumasinate võimsusele ning kasutusajale maksumust mis on seotud käesolevate börsihindadega.
 
 **Kommunikatsioon**
 
@@ -29,31 +34,43 @@ Suhtluskanalid: Microsoft Teams, Slack
 
 1.päev
 
-Meeskonnaga tutvumine
-Suhtluskanalite loomine
-Ideede genereerimine ning küsimuste kogumine
+Meeskonnaga tutvumine.
+
+Suhtluskanalite loomine.
+
+Ideede genereerimine ning küsimuste kogumine.
 
 2.päev
 
-Andmete kätte saamine andmebaasist
-Koodi kirjutamine (back-end/front-end)
-Andmete saamine tabelisse
-Tuleviku börsihindade kuvamine
-Prototüübi loomine FIGMAS
-Github
+Andmete kätte saamine andmebaasist.
+
+Koodi kirjutamine (back-end/front-end).
+
+Andmete saamine tabelisse.
+
+Tuleviku börsihindade kuvamine.
+
+Prototüübi loomine FIGMAS.
+
+Github.
 
 3.päev
 
-FIGMA kokkupanek
-viimaste asjade lõpetamised
-Githubi kokkupanek
-esitlus
+FIGMA kokkupanek.
+
+Viimaste asjade lõpetamised.
+
+Githubi kokkupanek.
+
+Esitlus.
 
 -----------
 
-Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-Üks pehme oskus, mida õppisin ja endas arendasin.
-Üks tehniline oskus, mida õppisin ja endas arendasin.
+1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+
+2. Üks pehme oskus, mida õppisin ja endas arendasin.
+
+3. Üks tehniline oskus, mida õppisin ja endas arendasin.
 
 **Andra Vabar**
 
@@ -61,7 +78,9 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 **Rainis-Ross Tiirik**
 
 1.Ei,ma olin rahul oma ülesannetega.
+
 2.Sain harjutada koostööd meeskonnaliikmega,kes tegi tööd kaugelt.
+
 3.Sain harjutada Javascripti.
 
 **Olavi Allik**
@@ -72,12 +91,16 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
 **Silja Kask**
 
-Oleksin võinud proovida teha nii html/css/java kui ka Figmat korraga. Sel korral proovisin rohkem Figmas.
-Õppisin arutlema tiimiga erinevate ideede üle. 
-Figma, bootstrap.com
+1. Oleksin võinud proovida teha nii html/css/java kui ka Figmat korraga. Sel korral proovisin rohkem Figmas.
+
+2. Õppisin arutlema tiimiga erinevate ideede üle. 
+
+3. Figma, bootstrap.com
 
 **Olev Kuris**
 
 1. Ei oleks tahtnud.
-2. Õppisin tiimitööd
+
+2. Õppisin tiimitööd.
+
 3. Arenesin Githubi, Visual Studio, JavaScripti osas.
