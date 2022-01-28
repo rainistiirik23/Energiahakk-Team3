@@ -1,6 +1,7 @@
 # Energiahakk-Team3
  
 FIGMA LINK https://www.figma.com/file/sR1vhB1spuTIZPGgP43BAx/Untitled?node-id=0%3A1
+PROTOTÜÜP https://ta21allik.itmajakas.ee/index.php 
 
 **Liikmed:**
 Andra Vabar
