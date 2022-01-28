@@ -72,6 +72,8 @@ Esitlus.
 - [Bootstrap components](https://getbootstrap.com/docs/3.3/)
 - [Loading free logos](https://www.flaticon.com)
 - [Generating logo](https://www.photopea.com)
+- [Elektrihinna kalkulaator](https://elekter.pere-eelarve.eu/)
+- [Elektribörsihinnad](https://www.elektrikell.ee)
 
 -----------
 **TIIMI TAGASISIDE**
