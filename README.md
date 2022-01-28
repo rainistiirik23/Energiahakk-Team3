@@ -6,11 +6,11 @@ PROTOTÜÜP https://ta21allik.itmajakas.ee/index.php
 
 **Liikmed:**
 
-Andra Vabar
-Rainis-Ross Tiirik
-Olavi Allik
-Timo Pirn
-Silja Kask
+Andra Vabar,
+Rainis-Ross Tiirik,
+Olavi Allik,
+Timo Pirn,
+Silja Kask,
 Olev Kuris
 
 **Projekti nimi** 
