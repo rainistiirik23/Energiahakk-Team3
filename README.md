@@ -6,13 +6,13 @@ PROTOTÜÜP https://ta21allik.itmajakas.ee/index.php
 
 **Liikmed:**
 
-TA-20 
+**TA-20**
 
 Andra Vabar,
 Rainis-Ross Tiirik,
 Timo Pirn
 
-TA - 21
+**TA - 21**
 
 Olavi Allik,
 Silja Kask,
@@ -32,7 +32,7 @@ Suhtluskanalid: Microsoft Teams, Slack
 
 **Ülesanded**
 
-1.päev
+**1.päev**
 
 Meeskonnaga tutvumine.
 
@@ -40,7 +40,7 @@ Suhtluskanalite loomine.
 
 Ideede genereerimine ning küsimuste kogumine.
 
-2.päev
+**2.päev**
 
 Andmete kätte saamine andmebaasist.
 
@@ -52,9 +52,9 @@ Tuleviku börsihindade kuvamine.
 
 Prototüübi loomine FIGMAS.
 
-Github.
+GITHUB.
 
-3.päev
+**3.päev**
 
 FIGMA kokkupanek.
 
@@ -65,6 +65,7 @@ Githubi kokkupanek.
 Esitlus.
 
 -----------
+**TIIMI TAGASISIDE**
 
 1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
