@@ -56,11 +56,11 @@ GITHUB.
 
 **3.päev**
 
-FIGMA kokkupanek.
+FIGMA probleemide lahendamine.
+
+Branchide ja repoe merchimine Githubis.
 
 Viimaste asjade lõpetamised.
-
-Githubi kokkupanek.
 
 Esitlus.
 
