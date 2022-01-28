@@ -1,5 +1,6 @@
 # Energiahakk-Team3
-
+ 
+FIGMA LINK https://www.figma.com/file/sR1vhB1spuTIZPGgP43BAx/Untitled?node-id=0%3A1
 **Liikmed:**
 Andra Vabar
 Rainis-Ross Tiirik
@@ -64,8 +65,3 @@ Figma, bootstrap.com
 1. Ei oleks tahtnud.
 2. Õppisin tiimitööd
 3. Arenesin Githubi, Visual Studio, JavaScripti osas.
-
-
-
-FIGMA LINK
-https://www.figma.com/file/sR1vhB1spuTIZPGgP43BAx/Untitled?node-id=0%3A1 
