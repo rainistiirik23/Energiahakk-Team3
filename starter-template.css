@@ -1,0 +1,107 @@
+
+.login .header {
+   background-color: #068FFC;
+   color: #FFF;
+   font-size: 24px;
+
+}
+
+.login .header div {
+  padding: 22px;
+}
+
+.login input {
+  border-color: #FEDA00;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
+}
+
+
+.btn-login { 
+  color: #FFFFFF; 
+  background-color: #FEDA00; 
+  border-color: #FEDA00; 
+} 
+ 
+.btn-login:hover, 
+.btn-login:focus, 
+.btn-login:active, 
+.btn-login.active, 
+.open .dropdown-toggle.btn-login { 
+  color: #FFFFFF; 
+  background-color: #068FFC; 
+  border-color: #FEDA00; 
+} 
+ 
+.btn-login:active, 
+.btn-login.active, 
+.open .dropdown-toggle.btn-login { 
+  background-image: none; 
+} 
+ 
+.btn-login.disabled, 
+.btn-login[disabled], 
+fieldset[disabled] .btn-login, 
+.btn-login.disabled:hover, 
+.btn-login[disabled]:hover, 
+fieldset[disabled] .btn-login:hover, 
+.btn-login.disabled:focus, 
+.btn-login[disabled]:focus, 
+fieldset[disabled] .btn-login:focus, 
+.btn-login.disabled:active, 
+.btn-login[disabled]:active, 
+fieldset[disabled] .btn-login:active, 
+.btn-login.disabled.active, 
+.btn-login[disabled].active, 
+fieldset[disabled] .btn-login.active { 
+  background-color: #FEDA00; 
+  border-color: #FEDA00; 
+} 
+ 
+.btn-login .badge { 
+  color: #FEDA00; 
+  background-color: #FFFFFF; 
+}
+
+
+.navbar-inverse {
+  color: #FFF; 
+  background-color: #FEDA00; 
+  height: 70px;
+
+}
+
+.navbar-brand {
+  color: #FFF!important; 
+
+}
+
+.navbar-header {
+  float: left!important;
+}
+
+.fa-plus {
+  color: #FFF;
+  margin-top: 20px;
+
+}
+.padding-20 {
+  padding: 20px;
+}
+
+.block {
+  display: block;
+}
+
+.navbar-fixed-bottom {
+color: #FFF;
+background-color: #068FFC;
+padding: 20px;
+font-size: 24px;
+}
